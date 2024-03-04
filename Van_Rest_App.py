@@ -9,7 +9,7 @@ import streamlit as st
 st.title('Vancouver Restaurant Recommender')
 
 # Lets download the data
-df_rest =pd.read_csv(r'C:\Users\ishn3001\app\df_for_app_3')
+df_rest =pd.read_csv(r'C:\\Users\\ishn3001\\app\\df_for_app_3')
 
 
 
